@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "phpunit/dbunit": "^3.0",
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+      "psr-0": {
+        "Application": "lib/"
+      }
+    }
+}
